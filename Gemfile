@@ -28,6 +28,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 # Paperclip for uploading images
 gem 'paperclip'
+gem 'simple_form'
 
 # Use Unicorn as the app server
 # gem 'unicorn'
