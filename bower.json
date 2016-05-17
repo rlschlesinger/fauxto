@@ -1,0 +1,17 @@
+{
+  "name": "fauxto",
+  "homepage": "https://github.com/rlschlesinger/fauxto",
+  "authors": [
+    "Robby Schlesinger <robbyschlesinger@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
